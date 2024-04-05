@@ -1,0 +1,2 @@
+# Handwritten_Text_Recognition
+Handwritten_Text-Recognition
